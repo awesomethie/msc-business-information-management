@@ -1,7 +1,7 @@
 # Business Information Management
 **Track:** Data Science  
 
-## 🛰️ Courses & Projects
+##  Courses & Projects
 
 ###  BM01BIM – Information Strategy  
 -  **HelloFresh x GenAI** – Strategic Proposal for AI Integration  
